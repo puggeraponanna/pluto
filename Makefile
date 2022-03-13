@@ -1,0 +1,3 @@
+
+fmt: 
+	./tools/format.py
